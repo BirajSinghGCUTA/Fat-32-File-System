@@ -113,8 +113,6 @@ To run C++ or C, first install gcc compilers
 
 ### Installation
 
-The code compiles into four shared libraries and four test programs.  To build the code, change to your top level assignment directory and type: 
-
 The application is built in an Linux.
 
 In terminal:
