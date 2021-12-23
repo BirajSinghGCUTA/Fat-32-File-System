@@ -83,7 +83,7 @@ This is a user space portable file system. This program will provide the user wi
 * Implements "ls" command to lists the directory contents.
 * Reads from the given file at the position, in bytes, specified by the position parameter annd output the number of bytes specified.
 
-For more specification refer to [FAT-32 Documentation](https://github.com/BirajSinghGCUTA/C-Heap)
+For more specification refer to [FAT-32 Documentation](https://github.com/BirajSinghGCUTA/Fat-32-File-System/blob/main/fatspec.pdf)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
